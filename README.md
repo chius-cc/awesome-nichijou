@@ -10,7 +10,7 @@ Curated resources for **Nichijou** (*My Ordinary Life*) by Keiichi Arawi & Kyoto
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
-[![Link Check](https://github.com/chius-me/awesome-nichijou/actions/workflows/links.yml/badge.svg)](https://github.com/chius-me/awesome-nichijou/actions/workflows/links.yml)
+[![Link Check](https://github.com/chius-n/awesome-nichijou/actions/workflows/links.yml/badge.svg)](https://github.com/chius-n/awesome-nichijou/actions/workflows/links.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -103,7 +103,7 @@ Curated resources for **Nichijou** (*My Ordinary Life*) by Keiichi Arawi & Kyoto
 - [*Helvetica Standard*](https://bookwalker.jp/series/377/list/) - Full-color 4-koma anthology tied to the anime segments. `[JA]`
 - [*Nichijou no Natsuyasumi*](https://bookwalker.jp/dee9c8eb19-a764-45da-bfe0-16d75fdd2fac/) - Official light novel spin-off. `[JA]`
 - [*Amemiya-san*](https://bookwalker.jp/series/390388/list/) - Keiichi Arawi manga adapted from his YouTube shorts. `[JA]`
-- [*CITY* / *CITY THE ANIMATION*](https://github.com/chius-me/awesome-citytheanimation) - Sister series by Keiichi Arawi & Kyoto Animation (2025).
+- [*CITY* / *CITY THE ANIMATION*](https://github.com/chius-n/awesome-citytheanimation) - Sister series by Keiichi Arawi & Kyoto Animation (2025).
 
 ## Pilgrimage
 
@@ -131,8 +131,8 @@ Curated resources for **Nichijou** (*My Ordinary Life*) by Keiichi Arawi & Kyoto
 
 ## Related Lists
 
-- [awesome-tamako-market](https://github.com/chius-me/awesome-tamako-market) - Resources for *Tamako Market* & *Tamako Love Story* (2013–2014).
-- [awesome-citytheanimation](https://github.com/chius-me/awesome-citytheanimation) - Resources for *CITY THE ANIMATION* (2025).
+- [awesome-tamako-market](https://github.com/chius-n/awesome-tamako-market) - Resources for *Tamako Market* & *Tamako Love Story* (2013–2014).
+- [awesome-citytheanimation](https://github.com/chius-n/awesome-citytheanimation) - Resources for *CITY THE ANIMATION* (2025).
 
 ---
 
