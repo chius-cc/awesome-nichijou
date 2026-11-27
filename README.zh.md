@@ -10,7 +10,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
-[![Link Check](https://github.com/chius-n/awesome-nichijou/actions/workflows/links.yml/badge.svg)](https://github.com/chius-n/awesome-nichijou/actions/workflows/links.yml)
+[![Link Check](https://github.com/chius-cc/awesome-nichijou/actions/workflows/links.yml/badge.svg)](https://github.com/chius-cc/awesome-nichijou/actions/workflows/links.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -103,7 +103,7 @@
 - [《Helvetica Standard》](https://bookwalker.jp/series/377/list/) - 对应动画同名段落的全彩四格集。`[JA]`
 - [《日常的暑假》](https://bookwalker.jp/dee9c8eb19-a764-45da-bfe0-16d75fdd2fac/) - 官方轻小说外传。`[JA]`
 - [《雨宫小姐》](https://bookwalker.jp/series/390388/list/) - 由作者自制短片衍生的连载漫画。`[JA]`
-- [《CITY》/《CITY THE ANIMATION》](https://github.com/chius-n/awesome-citytheanimation) - 同作者、同制作公司姐妹作（2025）。
+- [《CITY》/《CITY THE ANIMATION》](https://github.com/chius-cc/awesome-citytheanimation) - 同作者、同制作公司姐妹作（2025）。
 
 ## 圣地巡礼
 
@@ -131,8 +131,8 @@
 
 ## 相关列表
 
-- [awesome-tamako-market](https://github.com/chius-n/awesome-tamako-market) - 《玉子市场》与《玉子爱情故事》精选资源清单。
-- [awesome-citytheanimation](https://github.com/chius-n/awesome-citytheanimation) - 《CITY THE ANIMATION》精选资源清单。
+- [awesome-tamako-market](https://github.com/chius-cc/awesome-tamako-market) - 《玉子市场》与《玉子爱情故事》精选资源清单。
+- [awesome-citytheanimation](https://github.com/chius-cc/awesome-citytheanimation) - 《CITY THE ANIMATION》精选资源清单。
 
 ---
 
